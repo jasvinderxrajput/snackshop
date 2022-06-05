@@ -1,0 +1,38 @@
+/* #carouselExampleInterval{
+    
+   align-items: center;
+   padding-left: 200px;
+   background-color: black;
+} */
+
+#carouselExampleInterval img{
+    height: 400px;
+   
+
+}
+
+#feature img{
+    padding: 50px;
+    height: 200px;
+    width: 200px;
+}
+
+#featured_prod{
+    text-align: center;
+    background-color:aqua;
+    color: black;
+    font: bold;
+
+    
+}
+#prod{
+    height:800px;
+    width: 1400px;
+}
+#prod .col{
+  
+
+
+
+border: 5px solid black;
+}
